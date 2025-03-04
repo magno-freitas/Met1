@@ -11,6 +11,8 @@ public class att13 {
         System.out.println("Insira a terceira nota: ");
         double n3 = sc.nextDouble();
         System.out.println("Média: "+media(n1,n2,n3));
+//teste atualizar commit git
+        sc.close();
     }
     public static double media(double n1,double n2,double n3){
         double media=(n1+n2+n3)/3;
