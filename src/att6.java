@@ -12,7 +12,7 @@ public class att6 {
         int dif=base -n1;
         if(dif<0){
             dif=-dif;
-        
+            
         }
 
         int dif1=base -n2;
